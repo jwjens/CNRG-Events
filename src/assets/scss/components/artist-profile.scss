@@ -1,0 +1,19 @@
+.artist-profile {
+
+
+$artist-feature-image-offset-padding: 10px 0;
+
+.artist-feature-block {
+  padding: 10px 0;
+  border-top: 1px solid $medium-gray;
+  border-bottom: 1px solid $medium-gray;
+}
+
+.artist-feature-block-image {
+
+  display: block;
+  margin: 4rem;
+  padding: $artist-feature-image-offset-padding;
+}
+
+}

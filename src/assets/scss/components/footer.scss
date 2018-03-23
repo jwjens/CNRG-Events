@@ -1,0 +1,54 @@
+.footer {
+	background: #222 ;
+	padding: 80px 80px;
+	color: rgba(255,255,255,0.8);
+	font-family: "Nunito", Helvetica, Roboto, Arial, sans-serif;
+}
+
+.footer h3 {
+		color: rgba(255,255,255,0.8);
+		font-size:2em;
+
+}
+
+
+
+.footer a {
+		display: block;
+		color: rgba(255,255,255,0.6);
+		font-size: 2em;
+}
+
+.footer a:hover {
+
+		color: rgba(255,255,255,0.8);
+}
+
+.footer hr {
+		border-color: rgba(255,255,255,0.1);
+		margin: 10px 0;
+}
+
+.fa {
+	color: rgba(255,255,255,0.5);
+	font-size:1.3em;
+	padding: 6px;
+}
+
+
+.fa span {
+	color: rgba(255,255,255,0.8);
+	padding: 17px;
+	letter-spacing: .04em;
+	font-family: "Nunito", Helvetica, Roboto, Arial, sans-serif;
+	font-weight: bold;
+}
+
+.fa span:hover {
+	color: rgba(255,255,255,0.5);
+}
+
+.social-bar i:hover {
+	color: rgba(255,255,255,0.8);
+
+}

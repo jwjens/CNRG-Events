@@ -1,0 +1,48 @@
+.top-bar {
+	background: #222;
+	padding: .5rem;
+
+
+	.menu {
+		background: #222;
+	}
+	li {
+		background: #222;
+
+			&:hover {
+				background: lighten(#222, 10%);
+			}
+		}
+
+		a {
+			color: #fefefe;
+		}
+
+}
+
+img {
+	width:400px;
+ 	color:#333;
+ }
+
+.header-nav {
+	text-align: center;
+}
+
+
+
+.header-nav-subtitle {
+	font-size: 1rem;
+	letter-spacing: .05rem;
+}
+
+.header-nav-link {
+	text-transform:  uppercase;
+	font-weight: 600;
+	color: #000;
+	letter-spacing: .05rem;
+}
+
+.header-nav-link:hover {
+	color: #BB7676;
+}
