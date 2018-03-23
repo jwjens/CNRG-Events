@@ -52,7 +52,6 @@
 @include motion-ui-transitions;
 @include motion-ui-animations;
 
-@import 'components/building-blocks/fullscreen-image-slider';
 @import 'components/header';
 @import 'components/gallery';
 @import 'components/footer';
@@ -61,9 +60,3 @@
 @import 'components/quira';
 @import 'components/kaylacollins';
 @import 'components/contact';
-
-
-
-
-@import 'components/building-blocks/ecommerce-footer';
-@import 'components/building-blocks/3-column-footer-contact-form';
